@@ -1,6 +1,6 @@
 # Widget_BACKEND-TiagoGomes
 
-# <h2>🧪Tecnologias</h2>
+ <h2>🧪Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * [Nodejs](https://nodejs.org/en/)

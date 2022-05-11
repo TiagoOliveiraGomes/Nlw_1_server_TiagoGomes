@@ -1,6 +1,6 @@
 # Widget_BACKEND-TiagoGomes
 
-# 🧪Tecnologias
+# <h2>🧪Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * [Nodejs](https://nodejs.org/en/)
@@ -20,18 +20,18 @@ $ cd Nlw_1_server_TiagoGomes
 ```
 Para iniciá-lo, siga os passos abaixo:
 
-# Instalar as dependências
+# <h3>Instalar as dependências</h3>
 ```javascript
 $ npm install
 ```
 
-# Iniciar o projeto
+# <h3>Iniciar o projeto</h3>
 ```javascript
 $ npm run dev
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3333.
 
-💻 Projeto
+# 💻 Projeto
 Esse backend disponibiliza apenas a rota ```/feedbacks```, desenvolvido para testes.
 
 Feito com 🧡 by Tiago Gomes 👋🏻 

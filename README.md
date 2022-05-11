@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Nodemailer](https://nodemailer.com/about/)
 
 
-# 🚀 Como executar
+# <h2>🚀 Como executar</h2>
 Clone o projeto e acesse a pasta do mesmo.
 
 ```javascript

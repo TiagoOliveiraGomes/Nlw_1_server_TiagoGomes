@@ -1,7 +1,7 @@
 # Widget_BACKEND-TiagoGomes
 
  <h2>🧪Tecnologias</h2>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<h4>Esse projeto foi desenvolvido com as seguintes tecnologias: </h4>
 
 * [Nodejs](https://nodejs.org/en/)
 * [TypeScript](https://www.typescriptlang.org)
